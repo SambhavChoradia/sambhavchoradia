@@ -1,16 +1,31 @@
-### Hi there 👋
-
 <!--
-**SambhavChoradia/sambhavchoradia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SambhavChoradia/sambhavchoradia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<p>
+  Hi,&nbsp;there! &nbsp;
+  <strong style="color: black;">I'm</strong>&nbsp;
+  <strong>
+    <a
+      style="color: black;"
+      target="_blank"
+      href="https://www.linkedin.com/in/sambhav-choradia"
+    >
+      Sambhav</a
+    ></strong
+  >
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Master of Computer Application graduate from&nbsp;
+  <strong>
+    <a
+      style="color: rgb(33, 79, 128);"
+      target="_blank"
+      href="http://unipune.ac.in/"
+      >Savitribai Phule Pune University.</a
+    ></strong
+  >
+</p>
+<p>
+  A Software Engineer with expertise in building robust backend.
+</p>
