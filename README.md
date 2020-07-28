@@ -77,7 +77,7 @@ A Software Engineer with expertise in building robust backend.
 <p>
 ⚡ Fun fact: ...
 <p>
-Sambhav means Possible
+  Sambhav means <strong style="color: black;">Possible</strong>
 </p>
 <p>
 
