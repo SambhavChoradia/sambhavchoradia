@@ -64,9 +64,6 @@ A Software Engineer with expertise in building robust backend.
 <p>
 🌱 I’m currently learning ...
 <p>
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/SambhavChoradia/sambhavchoradia/master/assets/golang.gif"  height="80" />
-  </a>
 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/SambhavChoradia/sambhavchoradia/master/assets/aws.gif"  height="80" />
